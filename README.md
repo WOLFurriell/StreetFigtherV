@@ -23,7 +23,7 @@ The script of this part is here: [Web Scrapping](https://github.com/WOLFurriell/
 
 <img align="center" width="900" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
 
-<img align="center" width="900" height="650" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mixplot.jpg">
+<img align="center" width="900" height="610" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mixplot.jpg">
 
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/radar_street.jpg">
 
