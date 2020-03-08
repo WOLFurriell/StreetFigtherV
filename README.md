@@ -7,7 +7,7 @@ https://streetfighter.com/characters/
 https://game.capcom.com/cfn/sfv/character/
 
 To get the data I used techniques of Web Scrapping and Image-Processing, let's see an example of how this was done.
-First of all
+First of all I listed links of characters data, in the total there are 40 figthers in recent game, after that I used the list of characters in a loop to get the images from the site. Basically the image contain height, weight in text and a bar plot to represent range, power, health, mobility, techniques and range below we have a example:
 
 <img align="center" width="500" height="300" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/akuma_exemplo.jpg">
 
