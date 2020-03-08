@@ -15,3 +15,6 @@ With the packages imager I got select and extract the text of image and the size
 [Image extraction](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/02.Tratamento_Imagens.R)
 
 In the second step, I did a simple Web Scrapping using rvest to get some additional information
+
+<img align="center" width="500" height="300" src="https://github.com/WOLFurriell/StreetFigtherV/upload/master/04.auxiliar/ex_cammy.png">
+
