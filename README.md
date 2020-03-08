@@ -16,5 +16,5 @@ With the packages imager I got select and extract the text of image and the size
 
 In the second step, I did a simple Web Scrapping using rvest to get some additional information
 
-<img align="center" width="500" height="300" src="https://github.com/WOLFurriell/StreetFigtherV/upload/master/04.auxiliar/ex_cammy.png">
+<img align="center" width="400" height="250" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/ex_cammy.png">
 
