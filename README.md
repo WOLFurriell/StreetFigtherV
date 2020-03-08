@@ -1,7 +1,4 @@
-#s
-
-<font size=12>Web Scrapping, Image-Processing and Data Visualization of Street Figther V</font>
-
+# Web Scrapping, Image-Processing and Data Visualization of Street Figther V
 
 I love Street Figther and currently I have a ideia to make some analisys with the information of this game, so I used data of the two official sites, your linksare here:
 
@@ -23,26 +20,32 @@ In the second step, I did a simple Web Scrapping using rvest to get some additio
 
 The script of this part is here: [Web Scrapping](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/04.Scrapping_street_2.R)
 
-ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
+Lastly some adjustments have been made in the database and to see some aspects of the data I tried to do Street Fighter themed graphics using ggplo2
 
+# Plot
 <img align="center" width="900" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
+# Plot
 <img align="center" width="900" height="610" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mixplot.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
+# Plot
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/radar_street.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
+# Plot
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/heroi_box_street2.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
+# Plot
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/genero_street.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
+# Plot
 <img align="center" width="650" height="650" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/cor_ken.gif">
