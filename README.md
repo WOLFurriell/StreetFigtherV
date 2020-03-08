@@ -20,7 +20,9 @@ In the second step, I did a simple Web Scrapping using rvest to get some additio
 
 The script of this part is here: [Web Scrapping](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/04.Scrapping_street_2.R)
 
-Lastly some adjustments have been made in the database and to see some aspects of the data I tried to do Street Fighter themed graphics using ggplo2
+Lastly some adjustments have been made in the database and to see some aspects of the data I tried to do Street Fighter themed graphics using packages ggplo2 and magick.
+
+In the first plot I standardized the numeric variables with the function (E=mc^2)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
 
 # Plot
 <img align="center" width="900" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
