@@ -1,4 +1,6 @@
-<font size="5" color="red">Web Scrapping, Image-Processing and Data Visualization of Street Figther V </font>
+#s
+
+<font size="5" color="red">Web Scrapping, Image-Processing and Data Visualization of Street Figther V</font>
 
 I love Street Figther and currently I have a ideia to make some analisys with the information of this game, so I used data of the two official sites, your linksare here:
 
