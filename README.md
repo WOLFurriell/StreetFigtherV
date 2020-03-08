@@ -16,5 +16,5 @@ With the packages imager I got select and extract the text of image and the size
 
 In the second step, I did a simple Web Scrapping using rvest to get some additional information like stun bar, number of moviments present in a table and online rank, we can see an example of the information in the image below highlighted in blue
 
-<img align="center" width="650" height="400" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/ex_cammy2.png">
+<img align="center" width="750" height="400" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/ex_cammy2.png">
 d
