@@ -3,7 +3,6 @@
 I love Street Figther and currently I have a ideia to make some analisys with the information of this game, so I used data of the two official sites, your linksare here:
 
 https://streetfighter.com/characters/
-
 https://game.capcom.com/cfn/sfv/character/
 
 To get the data I used techniques of Web Scrapping and Image-Processing, let's see an example of how this was done.
@@ -14,3 +13,5 @@ First of all I listed links of characters data, in the total there are 40 figthe
 With the packages imager I got select and extract the text of image and the size of each bar of the bar plot, to do that I use the functions highlight and isoblur, the code can be seen here
 
 [Image extraction](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/02.Tratamento_Imagens.R)
+
+In the second step, I did a simple Web Scrapping using rvest to get some additional information
