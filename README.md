@@ -27,6 +27,8 @@ In the first plot I standardized the numeric variables with the function minmax 
 # Average advantage
 <img align="center" width="900" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
 
+How we can see Abigail, Ken, Ryu and Zeku have the highest average.
+
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
 # Plot
