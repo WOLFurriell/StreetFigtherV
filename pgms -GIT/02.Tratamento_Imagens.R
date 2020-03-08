@@ -1,12 +1,4 @@
 
-#https://dahtah.github.io/imager/imager.html
-#https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html
-
-# Utilizamos a estatístico e o Machine Learning para resolver os problemas do nosso dia-a-dia
-# no trabalho, e sabemos que nem sempre são problemas interessantes e motivadores.
-# Então, nada melhor do que fazer um estudo com base em um hobby, para nos relembrar,
-# O quão maravilhosa é essa ciência
-
 # --------------------------------------------------------------------------------
 # --- Tratamento das imagens -----------------------------------------------------
 # --------------------------------------------------------------------------------
@@ -21,8 +13,8 @@ street_base           <- data.frame(matrix(ncol = 9, nrow = 40))
 colnames(street_base) <- c("nomes","Sexo","Poder", "Vida", "Mobilidade","Tecnica", "Area","Peso","Altura")
 
 # ---------------------------------------------------------------------------------
-# Logica extracao, como o padrão, tamanho e caminho das imagens após o lutador 17
-# mudou algumas afaptações foram realizadas
+# Logica extracao, como o padrÃ£o, tamanho e caminho das imagens apÃ³s o lutador 17
+# mudou algumas afaptaÃ§Ãµes foram realizadas
 
 for (i in 1:37){
 
@@ -85,7 +77,7 @@ im2 <-  imsub(im,  y > y1 & y < y2, x < x1 & x > x2)
 plot(im2)
 
 # ---------------------------------------------------------------------------------
-# destaca e delimita as barras a ideia é borrar a imagem para evitar quebra no contorno
+# destaca e delimita as barras a ideia Ã© borrar a imagem para evitar quebra no contorno
 
 px     <- (isoblur(im2, sigma = 1.5)  > .72 )
 px %>% plot
