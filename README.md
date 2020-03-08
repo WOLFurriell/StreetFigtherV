@@ -1,2 +1,2 @@
-# Web Scrapping, Image-Processing and visualization of Street Figther V 
+# Web Scrapping, Image-Processing and Data Visualization of Street Figther V 
 
