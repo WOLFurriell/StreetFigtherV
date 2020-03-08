@@ -1,8 +1,6 @@
 #s
 
-<font size=5>Web Scrapping, Image-Processing and Data Visualization of Street Figther V</font>
-<b></b> 
-*//Creates bold text
+<font size=12>Web Scrapping, Image-Processing and Data Visualization of Street Figther V</font>
 
 
 I love Street Figther and currently I have a ideia to make some analisys with the information of this game, so I used data of the two official sites, your linksare here:
