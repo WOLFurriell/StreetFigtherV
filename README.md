@@ -25,7 +25,7 @@ Lastly some adjustments have been made in the database and to see some aspects o
 In the first plot I standardized the numeric variables with the function minmax = (x-min(x))/(max(x)-min(x), excluding weight and height and averaged the values to see which character has the highest average benefit.
 
 # Average advantage
-<img align="center" width="900" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
+<img align="center" width="1000" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
 
 How we can see Abigail, Ken, Ryu and Zeku have the highest average.
 
