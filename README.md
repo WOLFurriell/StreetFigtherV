@@ -22,9 +22,9 @@ The script of this part is here: [Web Scrapping](https://github.com/WOLFurriell/
 
 Lastly some adjustments have been made in the database and to see some aspects of the data I tried to do Street Fighter themed graphics using packages ggplo2 and magick.
 
-In the first plot I standardized the numeric variables with the function (E=mc^2)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
+In the first plot I standardized the numeric variables with the function minmax = (x-min(x))/(max(x)-min(x), excluding weight and height and averaged the values to see which character has the highest average benefit.
 
-# Plot
+# Average advantage
 <img align="center" width="900" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
