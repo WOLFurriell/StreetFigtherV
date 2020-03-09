@@ -25,7 +25,7 @@ Lastly some adjustments have been made in the database and to see some aspects o
 
 The first plot shows the distribution of all variables resulting from extractions
 
-# Plot
+# Distribution of atributes and skills
 <img align="center" width="900" height="610" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mixplot.jpg">
 
 In the next plot I standardized the numeric variables with the function minmax = (x-min(x))/(max(x)-min(x), excluding weight and height and averaged the values to see which character has the highest average benefit.
