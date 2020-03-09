@@ -51,5 +51,5 @@ ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litt
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
-# Plot
+# Correlation of attributes
 <img align="center" width="650" height="650" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/cor_ken.gif">
