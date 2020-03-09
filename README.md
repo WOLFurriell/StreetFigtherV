@@ -34,10 +34,9 @@ In the next plot I standardized the numeric variables with the function minmax =
 
 How we can see Abigail, Ken, Ryu and Zeku have the highest average, while Dhalsim, Menat and Mika has smaller.
 
+Another interesting graphic is the comparative of the skills of figthers, this allows us to check the balanced characters and those that stand out in certain attributes. 
 
-ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
-
-# Plot
+# Comparative skills of fighters
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/radar_street.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
