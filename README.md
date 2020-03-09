@@ -41,12 +41,12 @@ Another interesting graphic is the comparative of the skills of figthers, this a
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
-# Plot
+# Comparison between heroes and villains
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/heroi_box_street2.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
-# Plot
+# Comparison between men and women
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/genero_street.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
