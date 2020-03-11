@@ -1,13 +1,13 @@
 # Web Scrapping, Image-Processing and Data Visualization of Street Figther V
 
-I love Street Figther and currently I have a ideia to make some analisys with the information of this game, so I used data of the two official sites, your linksare here:
+I love street fighter and now I had the idea to do some analysis with the information of this game, so I used data of the two official websites, your links are here:
 
 source 1: https://streetfighter.com/characters/
 
 source 2: https://game.capcom.com/cfn/sfv/character/
 
-To get the data I used techniques of Web Scrapping and Image-Processing, let's see an example of how this was done.
-First of all I listed links of characters data, in the total there are 40 figthers in recent game, after that I used the list of characters in a loop to get the images from the site. Basically the image contain height, weight in text and a bar plot to represent range, power, health, mobility, techniques and range below we have a example:
+To get the data I used techniques of Web Scrapping and Image-Processing, for a better understanding of the project I will exemplify how the extraction process was done.
+First of all I listed the links containing the information of the characters, in total there are 40 figthers in recent game, after that I used the list in a loop to get the images from site. Basically the image contains information about height, weight in text and a bar plot to represent range, power, health, mobility, techniques and range. Below we have a example:
 
 <img align="center" width="500" height="300" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/akuma_exemplo.jpg">
 
