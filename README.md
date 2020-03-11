@@ -40,7 +40,7 @@ Another interesting graphic is the comparative of the skills of figthers, this a
 # Comparative skills of fighters
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/radar_street.jpg">
 
-ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
+ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipggtsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
 # Comparison between heroes and villains
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/heroi_box_street2.jpg">
