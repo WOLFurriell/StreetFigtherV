@@ -19,7 +19,7 @@ Secondly, I realized a simple Web Scrapping using rvest to get some additional i
 
 <img align="center" width="800" height="400" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/ex_cammy2.png">
 
-The script of this part is here: [Web Scrapping](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/04.Scrapping_street_2.R)
+The script for this part can be found here: [Web Scrapping](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/04.Scrapping_street_2.R)
 
 Lastly some adjustments have been made in the database and to see some aspects of the data I tried to do Street Fighter themed graphics using packages ggplo2 and magick.
 
