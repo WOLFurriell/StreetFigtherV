@@ -1,6 +1,6 @@
 # Web Scrapping, Image-Processing and Data Visualization of Street Figther V
 
-I love street fighter and now I had the idea to do some analysis with the information of this game, so I used data of the two official websites, your links are here:
+I love Street Fighter and Data Analysis, so I had the idea to combine these two things using data of the two official game websites
 
 source 1: https://streetfighter.com/characters/
 
