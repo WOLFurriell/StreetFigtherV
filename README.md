@@ -1,4 +1,4 @@
-# Web Scrapping, Image Processing and Data Visualization of Street Figther V
+# Web Scrapping, Image Processing and Data Visualization of Street Fighter V
 
 I love Street Fighter and Data Analysis, so I had the idea to combine these two things using data of the two official game websites
 
