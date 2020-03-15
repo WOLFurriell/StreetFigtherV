@@ -26,19 +26,19 @@ Lastly some adjustments have been made in the database and to see some aspects o
 The first plot shows the distribution of all variables resulting from extractions
 
 # Distribution of atributes and skills
-<img align="center" width="900" height="610" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mixplot.jpg">
+<img align="center" width="900" height="610" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/mixplot2.jpg">
 
 In the next plot I standardized the numeric variables with the function minmax = (x-min(x))/(max(x)-min(x), excluding weight and height and averaged the values to see which character has the highest average benefit.
 
 # Average advantage
-<img align="center" width="1000" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/mean_pad.jpg">
+<img align="center" width="1000" height="450" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/mean_pad2.jpg">
 
 How we can see Abigail, Ken, Ryu and Zeku have the highest average, while Dhalsim, Menat and Mika has smaller.
 
 Another interesting graphic is the comparative of the skills of figthers, this allows us to check the balanced characters and those that stand out in certain attributes. 
 
 # Comparative skills of fighters
-<img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/radar_street.jpg">
+<img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/radar_street2.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipggtsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
@@ -48,9 +48,9 @@ ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litt
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
 # Comparison between men and women
-<img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/genero_street.jpg">
+<img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/genero_street2.jpg">
 
 ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
 
 # Correlation of attributes
-<img align="center" width="650" height="650" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/01.plots/cor_ken.gif">
+<img align="center" width="650" height="650" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/cor_ken2.gif">
