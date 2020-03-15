@@ -48,7 +48,7 @@ Following the same idea as the previous graph we have a comparison between male 
 # Comparison between men and women
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/genero_street2.jpg">
 
-ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
+The last graph shows the correlation between all the variables extracted together with a beautiful Shoryuken.
 
 # Correlation of attributes
 <img align="center" width="650" height="650" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/cor_ken2.gif">
