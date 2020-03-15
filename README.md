@@ -11,11 +11,11 @@ First of all I listed the links containing the information of the characters, in
 
 <img align="center" width="500" height="300" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/akuma_exemplo.jpg">
 
-With the packages imager I got select and extract the text of image and the size of each bar of the bar plot, to do that I use the functions highlight and isoblur, the code can be seen here
+With the packages imager I selected and extracted the text from image and also the size of each bar from bar plot, to do this I used the functions highlight and isoblur, the code can be seen here
 
 [Image extraction](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/02.Tratamento_Imagens.R)
 
-In the second step, I did a simple Web Scrapping using rvest to get some additional information like stun bar, number of moviments present in a table and online rank, we can see an example of the information in the image below highlighted in blue
+Secondly, I realized a simple Web Scrapping using rvest to get some additional information like stun bar, number of moviments (present in a table) and online rank, we can see an example of the information in the image below highlighted in blue
 
 <img align="center" width="800" height="400" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/ex_cammy2.png">
 
