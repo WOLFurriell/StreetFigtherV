@@ -11,9 +11,7 @@ First of all I listed the links containing the information of the characters, in
 
 <img align="center" width="500" height="300" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/04.auxiliar/akuma_exemplo.jpg">
 
-With the packages imager I selected and extracted the text from image and also the size of each bar from bar plot, to do this I used the functions highlight and isoblur, the code can be seen here
-
-[Image extraction](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/02.Tratamento_Imagens.R)
+With the packages imager I selected and extracted the text from image and also the size of each bar from bar plot, to do this I used the functions highlight and isoblur, the code can be seen here: [Image extraction](https://github.com/WOLFurriell/StreetFigtherV/blob/master/pgms%20-GIT/02.Tratamento_Imagens.R)
 
 Secondly, I realized a simple Web Scrapping using rvest to get some additional information like stun bar, number of moviments (present in a table) and online rank, we can see an example of the information in the image below highlighted in blue
 
