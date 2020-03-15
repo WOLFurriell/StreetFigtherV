@@ -45,7 +45,7 @@ With the Box-plot we can see some differences between characters considered vill
 # Comparison between heroes and villains
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/heroi_box_street3.jpg">
 
-ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
+Following the same idea as the previous graph we have a comparison between male and female fighters. 
 
 # Comparison between men and women
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/genero_street2.jpg">
