@@ -35,12 +35,12 @@ In the next plot I standardized the numeric variables with the function minmax =
 
 How we can see Abigail, Ken, Ryu and Zeku have the highest average, while Dhalsim, Menat and Mika has smaller.
 
-Another interesting graphic is the comparative of the skills of figthers, this allows us to check the balanced characters and those that stand out in certain attributes. 
+Another interesting graphic is the comparative of the figthers skills, this allows us to check the balanced characters and those that stand out in certain attributes. 
 
 # Comparative skills of fighters
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/radar_street2.jpg">
 
-ipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipsis litterisipggtsis litterisipsis litterisipsis litterisipsis litterisipsis litteris
+With the Box-plot we can see some differences between characters considered villains, heroes or neutrals (who have no defined position or have changed sides).
 
 # Comparison between heroes and villains
 <img align="center" width="900" height="550" src="https://github.com/WOLFurriell/StreetFigtherV/blob/master/02.plots/heroi_box_street3.jpg">
